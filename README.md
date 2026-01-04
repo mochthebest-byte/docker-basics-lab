@@ -22,3 +22,8 @@ Topics:
 - Alpine container with sleep + ps
 - Understood container name conflicts
 
+## Day 3
+- Dockerfile anatomy
+- Image layers
+- CMD vs ENTRYPOINT
+- Custom image build
