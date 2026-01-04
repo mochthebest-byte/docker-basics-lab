@@ -47,3 +47,8 @@ Topics:
 - .env configuration
 - Secret handling basics
 - Git security best practices
+## Day 8
+- Restart policies
+- Healthchecks
+- Service dependency conditions
+- Production-like behavior
