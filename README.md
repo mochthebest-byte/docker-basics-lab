@@ -42,3 +42,8 @@ Topics:
 - Multi-container application
 - Service dependencies
 - Persistent volumes
+## Day 7
+- Environment variables
+- .env configuration
+- Secret handling basics
+- Git security best practices
