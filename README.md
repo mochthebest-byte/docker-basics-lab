@@ -52,3 +52,8 @@ Topics:
 - Healthchecks
 - Service dependency conditions
 - Production-like behavior
+## Day 9
+- Image optimization
+- Multi-stage builds
+- .dockerignore
+- Docker security basics
