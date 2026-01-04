@@ -57,3 +57,16 @@ Topics:
 - Multi-stage builds
 - .dockerignore
 - Docker security basics
+# Docker DevOps Lab
+
+## Overview
+Hands-on Docker training covering image building, optimization,
+multi-container applications, and production-like configuration.
+
+## Topics
+- Dockerfile & images
+- docker-compose
+- Networking & volumes
+- Environment variables
+- Healthchecks & restart policies
+- Security & optimization
