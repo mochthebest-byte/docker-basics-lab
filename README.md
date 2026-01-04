@@ -32,3 +32,8 @@ Topics:
 - Docker volumes
 - Bind mounts
 - Persistent data (Postgres, Zabbix case)
+## Day 5
+- Docker bridge networks
+- Container-to-container communication
+- DNS service discovery
+- Zabbix app-db networking
