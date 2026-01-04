@@ -37,3 +37,8 @@ Topics:
 - Container-to-container communication
 - DNS service discovery
 - Zabbix app-db networking
+## Day 6
+- docker-compose basics
+- Multi-container application
+- Service dependencies
+- Persistent volumes
