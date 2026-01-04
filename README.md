@@ -27,3 +27,8 @@ Topics:
 - Image layers
 - CMD vs ENTRYPOINT
 - Custom image build
+## Day 4
+- Stateless containers
+- Docker volumes
+- Bind mounts
+- Persistent data (Postgres, Zabbix case)
