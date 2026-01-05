@@ -15,3 +15,5 @@ jobs:
 
       - name: Run simple command
         run: echo "CI is working!"
+
+- run: echo "Hello from CI pipeline v2"
