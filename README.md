@@ -79,3 +79,7 @@ multi-container applications, and production-like configuration.
 - Python dependencies
 - Automated test execution
 - Pipeline failure handling
+## Day 13
+- Docker image build in CI
+- Image tagging with commit SHA
+- CI validation of Dockerfile
