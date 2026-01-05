@@ -74,3 +74,8 @@ multi-container applications, and production-like configuration.
 - CI/CD fundamentals
 - GitHub Actions basics
 - First automated pipeline
+## Day 12
+- CI build and test
+- Python dependencies
+- Automated test execution
+- Pipeline failure handling
