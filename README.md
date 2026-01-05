@@ -83,3 +83,4 @@ multi-container applications, and production-like configuration.
 - Docker image build in CI
 - Image tagging with commit SHA
 - CI validation of Dockerfile
+- Day 14: Push to GHCR
