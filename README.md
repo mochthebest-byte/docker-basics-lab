@@ -70,3 +70,7 @@ multi-container applications, and production-like configuration.
 - Environment variables
 - Healthchecks & restart policies
 - Security & optimization
+## Day 11
+- CI/CD fundamentals
+- GitHub Actions basics
+- First automated pipeline
